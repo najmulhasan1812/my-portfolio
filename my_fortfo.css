@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(8, 1, 31);
+}
+
+
+.social-links a{
+    transition: .3s;
+}
+.social-links a:hover{
+    color: #0d25fd !important;
+    transform: translateY(-5px);
+}
+.social-med-links a{
+    transition: .3s;
+}
+.social-med-links a:hover{
+    color: #d6dde7 !important;
+    transform: translateY(-5px);
+}
